@@ -1,3 +1,9 @@
+## User Story
+
+As an employee manager
+In order to be able to work with employee management
+I would like to access a list of employees.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
